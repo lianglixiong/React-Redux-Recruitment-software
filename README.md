@@ -699,19 +699,5 @@ Router.post('/login', function(req, res){
 ## 说明
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
-或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
-## 个人简介
-作者：房飞跃
-
-博客地址：[前端网](http://www.qdfuns.com/house/31986/note)  [博客园](https://www.cnblogs.com/LLX8/)  [GitHub](https://github.com/lianglixiong)
-
-职业：web前端开发工程师
-
-爱好：探索新事物，学习新知识
-
-座右铭：一个终身学习者
-
-## 联系方式
-坐标：广州
 
 
