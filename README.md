@@ -703,7 +703,7 @@ Router.post('/login', function(req, res){
 ## 个人简介
 作者：房飞跃
 
-博客地址：[前端网](http://www.qdfuns.com/house/31986/note)  [博客园](https://www.cnblogs.com/fangfeiyue)  [GitHub](https://github.com/fangfeiyue)
+博客地址：[前端网](http://www.qdfuns.com/house/31986/note)  [博客园](https://www.cnblogs.com/LLX8/)  [GitHub](https://github.com/lianglixiong)
 
 职业：web前端开发工程师
 
@@ -712,17 +712,6 @@ Router.post('/login', function(req, res){
 座右铭：一个终身学习者
 
 ## 联系方式
-坐标：北京
+坐标：广州
 
-QQ：294925572
 
-QQ技术交流群：678941904 ( 欢迎加入此群，与志同道合的朋友一起进步 )
-
-微信：
-
-![XinShiJieDeHuHuan](http://note.youdao.com/yws/public/resource/c2361265179a03449f6d52397fd50033/xmlnote/100D55934BB446839482D3EA0CDC3E8D/17820)
-
-## 赞赏
-觉得有帮助可以微信扫码支持下哦，赞赏金额不限，一分也是您对作者的鼎力支持
-
-![微信打赏](http://note.youdao.com/yws/public/resource/c2361265179a03449f6d52397fd50033/xmlnote/D77744C8EC944CF6AA232272CBC5CF6D/17828)
